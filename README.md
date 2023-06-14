@@ -1,7 +1,9 @@
-### Hi there 👋
+## Hi there 👋
 
-# My name is Thinh. A coder, i guess?
+### My name is Thinh. A coder, i guess?
 
+I am actively looking for an internship position in Data Science / ML Engineeer.
+I am interesting in NLP and data in general.
 <!--
 **ducthinh-dev/ducthinh-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
