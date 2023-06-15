@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### My name is Thinh. A coder, i guess?
+### My name is Thinh. A coder and also an explorer. 🔭
 
 I am actively looking for an internship position in Data Science / ML Engineeer.
 I am interesting in NLP and data in general.
