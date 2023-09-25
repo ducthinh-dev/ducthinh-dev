@@ -2,8 +2,8 @@
 
 ### My name is Thinh. A coder and also an explorer. 🔭
 
-I am actively looking for an internship position in Data Science / ML Engineeer.
-I am interesting in NLP and data in general.
+I am currently working as a project coordinator for IT Department of Guardian Vietnam a part of DFI Retail Group.
+Coding now becomes a habit of mine. Currently working on a football stats project for Fantasy Premier League.
 <!--
 **ducthinh-dev/ducthinh-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
